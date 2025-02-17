@@ -8,16 +8,16 @@
 </head>
 <body>
     <header>
-        <h1>Hi, I'm [Your Name] 👋</h1>
+        <h1>Hi, I'm Kennedy Obinna 👋</h1>
         <p>Cybersecurity Professional | CompTIA CySA+ Certified | Home SOC Enthusiast</p>
     </header>
     
-    <section id="about">
+<section id="about">
         <h2>About Me</h2>
         <p>I'm passionate about cybersecurity, threat detection, and network defense. Currently, I'm expanding my expertise by working on my home SOC lab and gaining hands-on experience with security tools.</p>
     </section>
     
-    <section id="certifications">
+<section id="certifications">
         <h2>Certifications</h2>
         <ul>
             <li>CompTIA CySA+</li>
@@ -28,7 +28,7 @@
         </ul>
     </section>
     
-    <section id="tools">
+<section id="tools">
         <h2>Tools</h2>
         <h3>Network</h3>
         <ul>
@@ -48,7 +48,7 @@
         </ul>
     </section>
     
-    <section id="projects">
+<section id="projects">
         <h2>Projects</h2>
         <ul>
             <li><strong>Home SOC Lab:</strong> Implementing security monitoring using SIEM solutions.</li>
@@ -57,7 +57,7 @@
         </ul>
     </section>
     
-    <section id="contact">
+<section id="contact">
         <h2>Contact</h2>
         <p>Let's connect! Find me on:</p>
         <ul>
@@ -67,7 +67,7 @@
         </ul>
     </section>
     
-    <footer>
+<footer>
         <p>&copy; 2025 [Your Name]. All Rights Reserved.</p>
     </footer>
 </body>
