@@ -21,9 +21,9 @@
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | SOC Home Lab|
+| SOC Home Lab Setup                            |<a href="https://google.com">SOC Home Lab Setup </a>|
 | Network Traffic Monitoring and Attack Detection | SOC Home Lab|
-| Security Automation with Shuffle SOAR         | SOC Home Lab|
+| SIEM Implementation and Log Analysis         | SOC Home Lab|
 | Incident Response Planning and Execution      | SOC Home Lab|
 
 <section id="certifications">
