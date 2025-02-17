@@ -9,7 +9,7 @@
 <body>
     <header>
         <h1>Hi, I'm Kennedy Obinna 👋</h1>
-        <p>Cybersecurity Professional | CompTIA CySA+ Certified | Home SOC Enthusiast</p>
+        <p>Cybersecurity Analyst | CompTIA CySA+ Certified | Home SOC Enthusiast</p>
     </header>
     
 <section id="about">
