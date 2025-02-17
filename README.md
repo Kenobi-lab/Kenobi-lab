@@ -37,15 +37,15 @@
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
         <h3>Endpoint</h3>
-        <ul>
-            <li>Microsoft Defender for Endpoints</li>
-            <li>Velociraptor</li>
-        </ul>
+        <div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
         <h3>SIEM</h3>
-        <ul>
-            <li>Microsoft Sentinel</li>
-            <li>Splunk</li>
-        </ul>
+       <div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</div>
     </section>
     
 <section id="projects">
