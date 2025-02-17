@@ -31,11 +31,11 @@
 <section id="tools">
         <h2>Tools</h2>
         <h3>Network</h3>
-        <ul>
-            <li>Wireshark</li>
-            <li>Suricata</li>
-            <li>Zeek</li>
-        </ul>
+       <div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
         <h3>Endpoint</h3>
         <ul>
             <li>Microsoft Defender for Endpoints</li>
@@ -62,13 +62,13 @@
         <p>Let's connect! Find me on:</p>
         <ul>
             <li><a href="https://github.com/[YourGitHub]">GitHub</a></li>
-            <li><a href="https://www.linkedin.com/in/[YourLinkedIn]">LinkedIn</a></li>
-            <li>Email: [YourEmail]</li>
+            <li><a href="https://www.linkedin.com/in/kennedy-obinna">LinkedIn</a></li>
+            <li>Email: obinnakennedy6@gmail.com</li>
         </ul>
     </section>
     
 <footer>
-        <p>&copy; 2025 [Your Name]. All Rights Reserved.</p>
+        <p>&copy; 2025 Kennedy Obinna. All Rights Reserved.</p>
     </footer>
 </body>
 </html>
