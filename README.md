@@ -15,7 +15,8 @@
         <h2>About Me</h2>
         <p>I'm passionate about cybersecurity, threat detection, and network defense. Currently, I'm expanding my expertise by working on my home SOC lab and gaining hands-on experience with security tools.</p>
     </section>
-    ## Objective
+
+## Objective
 
 My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
