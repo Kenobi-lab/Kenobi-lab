@@ -60,8 +60,8 @@
         <h2>Contact</h2>
         <p>Let's connect! Find me on:</p>
         <ul>
-            <li><a href="[https://github.com/[YourGitHub]](https://github.com/Kenobi-lab/Kenobi-lab/blob/main/README.md)">GitHub</a></li>
-            <li><a href="https://www.linkedin.com/in/kennedy-obinna">LinkedIn</a></li>
+            <li><a href="https://github.com/[YourGitHub]](https://github.com/Kenobi-lab/Kenobi-lab/blob/main/README.md">GitHub</a></li>
+            <a href="https://www.linkedin.com/in/kennedy-obinna"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
             <li>Email: obinnakennedy6@gmail.com</li>
         </ul>
     </section>
