@@ -21,7 +21,7 @@
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SOC Home Lab Setup                            |<a href="https://google.com">SOC Home Lab Setup </a>|
+| SOC Home Lab Setup                            |<a href="https://github.com/Kenobi-lab/SOC-Home-Lab">SOC Home Lab Setup </a>|
 | Network Traffic Monitoring and Attack Detection | SOC Home Lab|
 | SIEM Implementation and Log Analysis         | SOC Home Lab|
 | Incident Response Planning and Execution      | SOC Home Lab|
@@ -60,9 +60,7 @@
 <section id="projects">
         <h2>Projects</h2>
         <ul>
-            <li><strong>Home SOC Lab:</strong> Implementing security monitoring using SIEM solutions.</li>
-            <li><strong>Threat Hunting:</strong> Analyzing logs and detecting anomalies.</li>
-            <li><strong>Incident Response:</strong> Simulating cyber attacks and practicing response strategies.</li>
+            <a href="https://github.com/Kenobi-lab/SOC-Home-Lab">SOC Home Lab Setup </a>
         </ul>
     </section>
     
