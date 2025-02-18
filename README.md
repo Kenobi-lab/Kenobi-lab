@@ -7,7 +7,7 @@
 </head>
 <body>
     <header>
-        <h1>Hi, I'm Kennedy Obinna 👋</h1>
+        <h1>Hi, I'm Kennedy 👋</h1>
         <p>Cybersecurity Analyst | CompTIA CySA+ Certified | Home SOC Enthusiast</p>
     </header>
     
@@ -56,7 +56,14 @@
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
     </section>
-    
+
+<h3>Cloud</h3>
+        <div>
+            <img src="https://img.shields.io/badge/-AWS_Security-232F3E?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
+            <img src="https://img.shields.io/badge/-Azure_Security-0078D4?&style=for-the-badge&logo=MicrosoftAzure&logoColor=white" />
+            <img src="https://img.shields.io/badge/-Google_Cloud_Security-4285F4?&style=for-the-badge&logo=GoogleCloud&logoColor=white" />
+        </div>
+        
 <section id="projects">
         <h2>Projects</h2>
         <ul>
