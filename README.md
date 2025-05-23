@@ -38,39 +38,44 @@
     </section>
     
 <section id="tools">
-        <h2>Tools</h2>
-        <h3>Network</h3>
-       <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-        <h3>Endpoint</h3>
-        <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-        <h3>SIEM</h3>
-       <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-</div>
-    </section>
+    <h2>Tools</h2>
 
-<h3>Cloud</h3>
-        <div>
-            <img src="https://img.shields.io/badge/-AWS_Security-232F3E?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
-            <img src="https://img.shields.io/badge/-Azure_Security-0078D4?&style=for-the-badge&logo=MicrosoftAzure&logoColor=white" />
-            <img src="https://img.shields.io/badge/-Google_Cloud_Security-4285F4?&style=for-the-badge&logo=GoogleCloud&logoColor=white" />
-        </div>
-        
-<section id="projects">
-        <h2>Projects</h2>
-        <ul>
-            <a href="https://github.com/Kenobi-lab/SOC-Home-Lab">SOC Home Lab Setup </a>
-        </ul>
-    </section>
-    
+<h3>SIEM</h3>
+    <div>
+        <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Graylog-74B7E5?&style=for-the-badge&logo=Graylog&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Wazuh-5C2D91?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+    </div>
+
+<h3>Network Monitoring & Detection</h3>
+    <div>
+        <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=red" />
+        <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Snort-F44F4F?&style=for-the-badge&logo=Snort&logoColor=blue" />
+        <img src="https://img.shields.io/badge/-FortiGate-EE3124?&style=for-the-badge&logo=Fortinet&logoColor=orange" />
+    </div>
+
+ <h3>Threat Analysis & Forensics</h3>
+    <div>
+        <img src="https://img.shields.io/badge/-CyberChef-6F42C1?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUA..." title="CyberChef" />
+        <img src="https://img.shields.io/badge/-Autopsy-1E1E1E?&style=for-the-badge&logoColor=purple" />
+        <img src="https://img.shields.io/badge/-FTK-005A9C?&style=for-the-badge&logoColor=white" />
+    </div>
+
+ <h3>Vulnerability Scanning</h3>
+    <div>
+        <img src="https://img.shields.io/badge/-Nessus-017DC2?&style=for-the-badge&logo=Tenable&logoColor=blue" />
+        <img src="https://img.shields.io/badge/-OpenVAS-8BBF3D?&style=for-the-badge&logo=OpenVAS&logoColor=red" />
+    </div>
+
+ <h3>Log Management</h3>
+    <div>
+        <img src="https://img.shields.io/badge/-rsyslog-333333?&style=for-the-badge&logo=Linux&logoColor=brown" />
+        <img src="https://img.shields.io/badge/-NXLog-1E1E1E?&style=for-the-badge&logoColor=yellow" />
+    </div>
+</section>
+
 <section id="contact">
         <h2>Contact</h2>
         <p>Let's connect! Find me on:</p>
