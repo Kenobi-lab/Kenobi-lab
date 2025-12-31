@@ -23,8 +23,8 @@
 |-----------------------------------------------|----------------------------|
 | SOC Home Lab Setup                            |<a href="https://github.com/Kenobi-lab/SOC-Home-Lab">SOC Home Lab Setup </a>|
 | Network Traffic Monitoring and Attack Detection | SOC Home Lab|
-| SIEM Implementation and Log Analysis         | SOC Home Lab|
-| Incident Response Planning and Execution      | SOC Home Lab|
+| Splunk SOC Home Lab - Log Forwarding         | SOC Home Lab|
+
 
 <section id="certifications">
         <h2>Certifications</h2>
