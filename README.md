@@ -21,7 +21,7 @@
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Splunk SOC Home Lab - Log Forwarding         | <a href="https://github.com/Kenobi-lab/Splunk-SOC-Home-Lab-Centralised-Log-Forwarding-Monitoring">Splunk SOC Home Lab|
+| Splunk SOC Home Lab - Log Forwarding and Monitoring         | <a href="https://github.com/Kenobi-lab/Splunk-SOC-Home-Lab-Centralised-Log-Forwarding-Monitoring">Splunk SOC Home Lab|
 | Network Traffic Monitoring and Attack Detection | SOC Home Lab|
 
 
